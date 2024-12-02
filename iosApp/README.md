@@ -1,5 +1,5 @@
 # Transcribing Speech to Text
 
-## Completed Project
+work in progress.
 
-Explore the completed project for [Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text).
+current beta version available in apple store as (NotePal24)[https://apps.apple.com/us/app/notepal24/id6738781253].
