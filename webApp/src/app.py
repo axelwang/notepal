@@ -90,7 +90,7 @@ def summarize(audio_file,customized_correction=False):
 
 ### Main
 def main():
-    st.title("Notepal demo")
+    st.title("Teammate AI demo")
 
     ### File upload
     uploaded_file = st.file_uploader("Choose an audio file", type=["mp3"])
