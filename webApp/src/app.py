@@ -97,7 +97,7 @@ def main():
     
     if uploaded_file is not None:
         ### Save the uploaded file
-        audio_file = os.path.join("../data",uploaded_file.name)
+        audio_file = os.path.join("./webApp/data",uploaded_file.name)
         with open(audio_file,"wb") as f:
             f.write(uploaded_file.getbuffer())
         
